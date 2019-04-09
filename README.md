@@ -7,6 +7,10 @@
 #### Install dependencies
 ```
 npm install
+
+composer install
+
+php artisan key:generate 
 ```
 #### Run the server
 ```
