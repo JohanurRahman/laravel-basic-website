@@ -6,9 +6,9 @@
 
 #### Install dependencies
 ```
-npm install
-
 composer install
+
+npm install
 
 php artisan key:generate 
 ```
